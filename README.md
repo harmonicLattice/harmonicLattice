@@ -5,8 +5,6 @@ I just wish that I could find my way back to that fancy dashboard that promised 
 
 In any case, I'll play along with this, and maybe clean it up later...
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 Turning ideas that have running through my head since publishing RatioKey (~12 years ago) into something tangible.
 
