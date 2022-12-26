@@ -1,8 +1,5 @@
 ### Greetings!
 
-<!--
-**harmonicLattice/harmonicLattice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Well, surprise, somehow I managed to create a new repository. I needed another one at some point anyway, so no harm done.
 I just wish that I could find my way back to that fancy dashboard that promised to teach me how this site works!
 
@@ -35,4 +32,4 @@ I'm not picky, although if it matters to you I'm a non-practicing heterosexual m
 
 - ⚡ Fun fact: ...
 Most of what we think we know is either incomplete or just plain wrong.
--->
+
